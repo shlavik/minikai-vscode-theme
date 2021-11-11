@@ -1,0 +1,37 @@
+{
+  "name": "minikai-color-theme",
+  "displayName": "Minikai",
+  "description": "Minimal Monokai color theme",
+  "version": "0.3.0",
+  "publisher": "shlavik",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shlavik/minikai-vscode-theme"
+  },
+  "galleryBanner": {
+    "color": "#c49143",
+    "theme": "dark"
+  },
+  "icon": "icon.png",
+  "engines": {
+    "vscode": "*"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "id": "minikai-color-theme",
+        "label": "Minikai",
+        "uiTheme": "vs-dark",
+        "path": "./minikai-color-theme.json"
+      }
+    ]
+  },
+  "__metadata": {
+    "id": "0f289e6b-a76c-4334-b556-9888efd621c1",
+    "publisherDisplayName": "shlavik",
+    "publisherId": "a43f5d4a-b50f-48f7-bb71-9faa21256d61"
+  }
+}
