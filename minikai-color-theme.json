@@ -33,7 +33,7 @@
     "dropdown.listBackground": "#161714",
     "editor.background": "#1e1f1c",
     "editor.findMatchBackground": "#1e1f1c",
-    "editor.findMatchBorder": "#ff0000aa",
+    "editor.findMatchBorder": "#f92672",
     "editor.findMatchHighlightBackground": "#1e1f1c",
     "editor.findMatchHighlightBorder": "#ffffffaa",
     "editor.foreground": "#f8f8f2",
