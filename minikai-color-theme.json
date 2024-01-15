@@ -103,7 +103,7 @@
     "menubar.selectionBackground": "#75715e40",
     "menubar.selectionForeground": "#f8f8f2",
     "minimap.findMatchHighlight": "#ffffffaa",
-    "minimap.selectionHighlight": "#135564",
+    "minimap.selectionHighlight": "#00ccffaa",
     "minimap.selectionOccurrenceHighlight": "#ffffffaa",
     "minimapSlider.activeBackground": "#75715e80",
     "minimapSlider.background": "#3e3d3260",
