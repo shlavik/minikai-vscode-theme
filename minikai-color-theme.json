@@ -39,6 +39,7 @@
     "editor.foreground": "#f8f8f2",
     "editor.lineHighlightBackground": "#161714",
     "editor.lineHighlightBorder": "#161714",
+    "editor.rangeHighlightBackground": "#161714",
     "editor.selectionBackground": "#135564",
     "editor.selectionHighlightBackground": "#00000000",
     "editor.selectionHighlightBorder": "#ffffffaa",
