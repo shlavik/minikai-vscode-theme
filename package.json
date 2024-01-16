@@ -1,8 +1,8 @@
 {
   "name": "minikai-color-theme",
   "displayName": "Minikai",
-  "description": "Minimal Monokai color theme",
-  "version": "0.4.7",
+  "description": "Minimal Monokai VSCode theme",
+  "version": "0.4.8",
   "publisher": "shlavik",
   "repository": {
     "type": "git",
