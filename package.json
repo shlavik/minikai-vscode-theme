@@ -1,8 +1,8 @@
 {
-  "name": "minikai-color-theme",
-  "displayName": "Minikai",
+  "name": "minikai-theme",
+  "displayName": "Minikai Theme",
   "description": "Minimal Monokai VSCode theme",
-  "version": "0.4.8",
+  "version": "0.5.0",
   "publisher": "shlavik",
   "repository": {
     "type": "git",
@@ -22,10 +22,10 @@
   "contributes": {
     "themes": [
       {
-        "id": "minikai-color-theme",
+        "id": "minikai-theme",
         "label": "Minikai",
         "uiTheme": "vs-dark",
-        "path": "./minikai-color-theme.json"
+        "path": "./minikai-theme.json"
       }
     ]
   },
