@@ -26,7 +26,7 @@
   "telemetry.telemetryLevel": "off",
   "window.title": "${activeEditorLong}",
   "workbench.activityBar.location": "top",
-  "workbench.colorTheme": "minikai-color-theme",
+  "workbench.colorTheme": "minikai-theme",
   "workbench.editor.empty.hint": "hidden",
   "workbench.editor.enablePreview": false,
   "workbench.editor.enablePreviewFromQuickOpen": false,
