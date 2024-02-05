@@ -6,7 +6,7 @@
 
 ![Minikai](https://raw.githubusercontent.com/shlavik/minikai-vscode-theme/main/screenshot.png "Minikai")
 
-## Suggested settings.json
+### Suggested settings.json
 
 ```json
 {
@@ -41,7 +41,7 @@
 }
 ```
 
-## Suggested keybindings.json
+### Suggested keybindings.json
 
 ```json
 [
