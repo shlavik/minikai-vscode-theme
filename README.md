@@ -2,7 +2,7 @@
 
 [![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)
 
-> Minimal dark deep focus flat Monokai VSCode theme
+> Minimal dark deep focus flat contrast pure Monokai VSCode theme
 
 ![Minikai](https://raw.githubusercontent.com/shlavik/minikai-vscode-theme/main/screenshot.png "Minikai")
 
