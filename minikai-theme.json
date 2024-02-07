@@ -40,7 +40,7 @@
     "dropdown.foreground": "#a0a0a0",
     "dropdown.listBackground": "#161714",
     "editor.background": "#1e1f1c",
-    "editor.findMatchBackground": "#1e1f1c",
+    "editor.findMatchBackground": "#00000000",
     "editor.findMatchBorder": "#f92672",
     "editor.findMatchHighlightBackground": "#00000000",
     "editor.findMatchHighlightBorder": "#ffffffaa",
