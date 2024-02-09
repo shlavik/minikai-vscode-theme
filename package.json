@@ -2,7 +2,7 @@
   "name": "minikai-theme",
   "displayName": "Minikai Theme",
   "description": "Minimal Monokai VSCode theme",
-  "version": "0.5.12",
+  "version": "0.5.13",
   "publisher": "shlavik",
   "repository": {
     "type": "git",

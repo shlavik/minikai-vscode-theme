@@ -6,6 +6,7 @@
 // #414339
 // #75715e
 // #a0a0a0
+// #cccccc
 // #f8f8f2
 {
   "type": "dark",
@@ -97,6 +98,7 @@
     "keybindingLabel.foreground": "#f8f8f2",
     "keybindingTable.headerBackground": "#1e1f1c",
     "list.activeSelectionBackground": "#272822",
+    "list.activeSelectionForeground": "#f8f8f2",
     "list.dropBackground": "#00000040",
     "list.focusBackground": "#75715e40",
     "list.highlightForeground": "#f8f8f2",
@@ -104,6 +106,7 @@
     "list.inactiveFocusBackground": "#272822",
     "list.inactiveFocusOutline": "#272822",
     "list.inactiveSelectionBackground": "#272822",
+    "list.inactiveSelectionForeground": "#cccccc",
     "menu.background": "#272822",
     "menu.foreground": "#a0a0a0",
     "menu.selectionBackground": "#75715e40",
@@ -133,7 +136,7 @@
     "peekViewResult.selectionBackground": "#272822",
     "peekViewTitle.background": "#272822",
     "pickerGroup.foreground": "#75715e",
-    "ports.iconRunningProcessForeground": "#ccccc7",
+    "ports.iconRunningProcessForeground": "#cccccc",
     "progressBar.background": "#75715e",
     "quickInput.background": "#272822",
     "quickInputList.focusBackground": "#41433980",
@@ -166,7 +169,7 @@
     "tab.border": "#1e1f1c",
     "tab.hoverBackground": "#75715e40",
     "tab.inactiveBackground": "#1e1f1c",
-    "tab.inactiveForeground": "#ccccc7",
+    "tab.inactiveForeground": "#cccccc",
     "tab.lastPinnedBorder": "#1e1f1c",
     "tab.unfocusedActiveBackground": "#272822",
     "tab.unfocusedHoverBackground": "#75715e40",
