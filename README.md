@@ -8,7 +8,7 @@ Minimal dark deep focus flat contrast clean Monokai VSCode theme
 
 ![Minikai](https://raw.githubusercontent.com/shlavik/minikai-vscode-theme/main/screenshot.png "Minikai")
 
-### Suggested settings.json
+### Suggested `settings.json`
 
 ```json
 {
@@ -43,7 +43,7 @@ Minimal dark deep focus flat contrast clean Monokai VSCode theme
 }
 ```
 
-### Suggested keybindings.json
+### Suggested `keybindings.json`
 
 ```json
 [
