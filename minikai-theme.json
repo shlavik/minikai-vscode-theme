@@ -146,6 +146,8 @@
     "quickInput.background": "#272822",
     "quickInputList.focusBackground": "#41433980",
     "sash.hoverBorder": "#ac6218",
+    "scmGraph.historyItemHoverDefaultLabelForeground": "#000000",
+    "scmGraph.historyItemHoverLabelForeground": "#000000",
     "scrollbar.shadow": "#161714",
     "scrollbarSlider.activeBackground": "#75715e80",
     "scrollbarSlider.background": "#3e3d3260",
